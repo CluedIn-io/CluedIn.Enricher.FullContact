@@ -1,0 +1,8 @@
+﻿namespace CluedIn.ExternalSearch.Providers.Fullcontact.Model
+{
+	public class EmailAddress
+	{
+		public string value { get; set; }
+		public string label { get; set; }
+	}
+}
