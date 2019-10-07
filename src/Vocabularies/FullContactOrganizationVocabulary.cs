@@ -10,7 +10,7 @@
 using CluedIn.Core.Data;
 using CluedIn.Core.Data.Vocabularies;
 
-namespace CluedIn.ExternalSearch.Providers.Fullcontact.Vocabularies
+namespace CluedIn.ExternalSearch.Providers.FullContact.Vocabularies
 {
     /// <summary>The clear bit organization vocabulary.</summary>
     /// <seealso cref="CluedIn.Core.Data.Vocabularies.SimpleVocabulary" />

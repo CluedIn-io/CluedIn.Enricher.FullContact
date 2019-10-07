@@ -15,11 +15,11 @@ using CluedIn.Core;
 using CluedIn.Core.Data;
 using CluedIn.Core.Data.Parts;
 using CluedIn.Crawling.Helpers;
-using CluedIn.ExternalSearch.Providers.Fullcontact.Model;
-using CluedIn.ExternalSearch.Providers.Fullcontact.Vocabularies;
+using CluedIn.ExternalSearch.Providers.FullContact.Model;
+using CluedIn.ExternalSearch.Providers.FullContact.Vocabularies;
 using RestSharp;
 
-namespace CluedIn.ExternalSearch.Providers.Fullcontact
+namespace CluedIn.ExternalSearch.Providers.FullContact
 {
     /// <summary>The clear bit external search provider.</summary>
     /// <seealso cref="CluedIn.ExternalSearch.ExternalSearchProviderBase" />

@@ -7,7 +7,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace CluedIn.ExternalSearch.Providers.Fullcontact.Vocabularies
+namespace CluedIn.ExternalSearch.Providers.FullContact.Vocabularies
 {
     /// <summary>The clear bit vocabulary.</summary>
     public static class FullContactVocabulary

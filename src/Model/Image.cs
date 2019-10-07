@@ -1,4 +1,4 @@
-﻿namespace CluedIn.ExternalSearch.Providers.Fullcontact.Model
+﻿namespace CluedIn.ExternalSearch.Providers.FullContact.Model
 {
 	public class Image
 	{

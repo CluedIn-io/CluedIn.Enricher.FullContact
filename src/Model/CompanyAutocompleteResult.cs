@@ -9,7 +9,7 @@
 
 using Newtonsoft.Json;
 
-namespace CluedIn.ExternalSearch.Providers.Fullcontact.Model
+namespace CluedIn.ExternalSearch.Providers.FullContact.Model
 {
     /// <summary>The company autocomplete result.</summary>
     public class CompanyAutocompleteResult
